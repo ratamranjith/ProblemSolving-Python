@@ -4,5 +4,4 @@ def printNumbers(n):
 	printNumbers(n-1)
 	print(n)
 
-
 printNumbers(10)
